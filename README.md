@@ -6,3 +6,4 @@ Symbol | Code point | English
 &#x2655; | U+2655 | White Chess Queen
 &#x2656; | U+2656 | White Chess Rook
 &#x2657; | U+2657 | White Chess Bishop
+&#x2658; | U+2658 | White Chess Knight
