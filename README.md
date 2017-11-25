@@ -1,2 +1,5 @@
 # chess-unicode
-Unicode characters for chess.
+
+Symbol | Code point | English
+------ | ---------- | -------
+
