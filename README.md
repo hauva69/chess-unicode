@@ -1,5 +1,8 @@
 # chess-unicode
 
+Documenting Unicode support for chess. I'm using New in Chess Yearbook 71
+as a source what kind of characters there are.
+
 Symbol | Code point | English
 ------ | ---------- | -------
 &#x2654; | U+2654 | White Chess King
