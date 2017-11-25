@@ -29,3 +29,4 @@ Symbol | Codepoint | English
 ## Sources
 
 * [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode)
+* [Unicode Characters in the 'Symbol, Math' Category](http://www.fileformat.info/info/unicode/category/Sm/list.htm)
