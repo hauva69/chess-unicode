@@ -17,3 +17,5 @@ Symbol | Codepoint | English
 &#x265D; | U+265D | Black Chess Bishop
 &#x265E; | U+265E | Black Chess Knight
 &#x265F; | U+265F | Black Chess Pawn
+&#x2a72; | U+2A72 | White stands slightly better
+
