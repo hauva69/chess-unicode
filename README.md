@@ -24,6 +24,7 @@ Symbol | Codepoint | English
 +- | ASCII | White has a desicive advantage
 -+ | ASCII | Black has a desicive advantage
 = | ASCII | Balanced position
+&#x221e; | U+221E | Unclear position
 
 ## Sources
 
