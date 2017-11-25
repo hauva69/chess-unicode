@@ -3,7 +3,7 @@
 Documenting Unicode support for chess. I'm using New in Chess Yearbook 71
 as a source what kind of characters there are.
 
-Symbol | Codepoint | English
+Symbol | Codepoint | English | FIXME
 ------ | ---------- | -------
 &#x2654; | U+2654 | White Chess King
 &#x2655; | U+2655 | White Chess Queen
@@ -25,6 +25,7 @@ Symbol | Codepoint | English
 -+ | ASCII | Black has a desicive advantage
 = | ASCII | Balanced position
 &#x221e; | U+221E | Unclear position
+? | ? | Compensation for the material | What is this?
 
 ## Sources
 
