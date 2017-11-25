@@ -12,3 +12,4 @@ Symbol | Code point | English
 &#x2658; | U+2658 | White Chess Knight
 &#x2659; | U+2659 | White Chess Pawn
 &#x265A; | U+265A | Black Chess King
+&#x265B; | U+265B | Black Chess Queen
