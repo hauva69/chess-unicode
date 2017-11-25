@@ -22,3 +22,6 @@ Symbol | Codepoint | English
 &#xb1; | U+00B1 | White stands better
 &#x2213; | U+2213 | Black stands better
 
+## Sources
+
+* [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode)
