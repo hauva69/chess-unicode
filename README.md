@@ -15,3 +15,5 @@ Symbol | Codepoint | English
 &#x265B; | U+265B | Black Chess Queen
 &#x265C; | U+265C | Black Chess Rook
 &#x265D; | U+265D | Black Chess Bishop
+&#x265E; | U+265E | Black Chess Knight
+&#x265F; | U+265F | Black Chess Pawn
