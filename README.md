@@ -25,7 +25,6 @@ Symbol | Codepoint | English | FIXME
 -+ | ASCII | Black has a desicive advantage
 = | ASCII | Balanced position
 &#x221e; | U+221E | Unclear position
-? | ? | Compensation for the material
 
 ## Sources
 
