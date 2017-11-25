@@ -26,6 +26,9 @@ Symbol | Codepoint | English
 = | ASCII | Balanced position
 &#x221e; | U+221E | Unclear position
 ? | ? | With compensation for the material
+> | ASCII | Strong
+< | ASCII | Weak
+&#2265; | U+2265 | Better is
 
 ## Sources
 
