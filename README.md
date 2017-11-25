@@ -20,4 +20,5 @@ Symbol | Codepoint | English
 &#x2a72; | U+2A72 | White stands slightly better
 &#x2a71; | U+2A71 | Black stands slightly better
 &#xb1; | U+00B1 | White stands better
+&#x2213; | U+2213 | Black stands better
 
