@@ -29,6 +29,8 @@ Symbol | Codepoint | English
 &gt; | ASCII | Strong
 &lt; | ASCII | Weak
 &#2265; | U+2265 | Better is
+&#2264; | U+2265 | Weaker is
+
 
 ## Sources
 
