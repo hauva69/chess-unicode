@@ -11,3 +11,4 @@ Symbol | Code point | English
 &#x2657; | U+2657 | White Chess Bishop
 &#x2658; | U+2658 | White Chess Knight
 &#x2659; | U+2659 | White Chess Pawn
+&#x265A; | U+265A | Black Chess King
