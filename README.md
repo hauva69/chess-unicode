@@ -21,6 +21,9 @@ Symbol | Codepoint | English
 &#x2a71; | U+2A71 | Black stands slightly better
 &#xb1; | U+00B1 | White stands better
 &#x2213; | U+2213 | Black stands better
+ASCII | +- | White has a desicive advantage
+ASCOO | -+ | Black has a desicive advantage
+
 
 ## Sources
 
