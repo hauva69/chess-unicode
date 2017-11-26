@@ -47,6 +47,7 @@ FIXME | FIXME | With compensation for the material
 FIXME | FIXME | Space
 FIXME | FIXME | Center
 &#x2B00; | U+2B00 | Diagonal
+&#x2B04; | U+2B04 | File
 
 ## Sources
 
