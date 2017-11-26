@@ -46,7 +46,7 @@ FIXME | FIXME | With compensation for the material
 &#x25E7; | U+25E7 | Queenside
 FIXME | FIXME | Space
 FIXME | FIXME | Center
-&#x2B00 | U+2B00 | Diagonal
+&#x2B00; | U+2B00 | Diagonal
 
 ## Sources
 
