@@ -36,6 +36,7 @@ Symbol | Codepoint | English
 ?? | ASCII | Blunder
 !? | ASCII | Interesting move
 ?! | ASCII | Dubious move
+&#x25A1; | U+25A1 | Only move
 
 ## Sources
 
