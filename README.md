@@ -52,6 +52,7 @@ FIXME | FIXME | Center
 &#x25CB;&#x25CB; | U+25CB U+25CB | Pawn structure
 X | ASCII | Mate
 N | ASCII | Novelty
+EN | ASCII | Endgame
 
 ## Sources
 
