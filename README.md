@@ -54,6 +54,7 @@ X | ASCII | Mate
 N | ASCII | Novelty
 EN | ASCII | Endgame
 Z | ASCII | Zugzwang
+T | ASCII | Time
 
 ## Sources
 
