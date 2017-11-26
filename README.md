@@ -34,6 +34,8 @@ Symbol | Codepoint | English
 !! | ASCII | Excellent move
 ? | ASCII | Bad move
 ?? | ASCII | Blunder
+!? | ASCII | Interesting move |
+
 
 ## Sources
 
