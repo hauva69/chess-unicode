@@ -41,6 +41,7 @@ Symbol | Codepoint | English
 &#x2B62; | U+2B62 | Attack
 &#x2B61; | U+2B61 | Iniative
 &#x2B85; | U+2B85 | Lead in development
+&#x2B82; | U+2B82 | Counterplay
 
 ## Sources
 
