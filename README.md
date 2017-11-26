@@ -55,6 +55,7 @@ N | ASCII | Novelty
 EN | ASCII | Endgame
 Z | ASCII | Zugzwang
 T | ASCII | Time
+– | U-8211 | See
 
 ## Sources
 
