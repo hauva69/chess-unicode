@@ -69,7 +69,8 @@ izt | ASCII | Interzonal tournament
 ct | ASCII | Candidates tournament
 ol | ASCII | Olympiad
 m | ASCII | Match
-
+cr | ASCII | Correspondence
+jr | ASCII | Junior
 
 ## Sources
 
