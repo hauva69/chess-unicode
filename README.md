@@ -31,7 +31,7 @@ Symbol | Codepoint | English
 &#2265; | U+2265 | Better is
 &#2264; | U+2265 | Weaker is
 ! | ASCII | Good move
-
+!! | ASCII | Excellent move
 
 ## Sources
 
