@@ -38,6 +38,7 @@ Symbol | Codepoint | English
 ?! | ASCII | Dubious move
 &#x25A1; | U+25A1 | Only move
 &#x25B3; | U+25B3 | With the idea
+&#x2B61; | U+2B61 | Iniative
 
 ## Sources
 
