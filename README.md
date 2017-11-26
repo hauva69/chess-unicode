@@ -64,6 +64,7 @@ T | ASCII | Time
 RR | ASCII | Editorial comment
 YB | ASCII | Yearbook
 ch | ASCII | National championship
+zt | ASCII | Zonal tournament
 
 ## Sources
 
