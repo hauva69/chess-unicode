@@ -1,7 +1,12 @@
 # Unicode Characters for Chess
 
-Documenting Unicode support for chess. I'm using New in Chess Yearbook 71
-as a source what kind of characters there are.
+Documenting Unicode support for chess. I'm using New in Chess Yearbook
+71 as a source what kind of characters there are. There are some
+problems: compensation (infinity over equals), I'm quite sure I've seen
+it somewhere in Unicode, but I couldn't spot it now. Pair of bishops is
+wrong, the squares should be white instead of black.
+
+The right solution would possibly be using SVG for all this.
 
 Symbol | Codepoint | English
 ------ | ---------- | -------
