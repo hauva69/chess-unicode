@@ -1,4 +1,4 @@
-# chess-unicode
+# Unicode Characters for Chess
 
 Documenting Unicode support for chess. I'm using New in Chess Yearbook 71
 as a source what kind of characters there are.
