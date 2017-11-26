@@ -23,7 +23,7 @@ Symbol | Codepoint | English
 &#x2213; | U+2213 | Black stands better
 +- | ASCII | White has a desicive advantage
 -+ | ASCII | Black has a desicive advantage
-= | ASCII | Balanced position
+= | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
 ? | ? | With compensation for the material
 &gt; | ASCII | Strong
