@@ -25,7 +25,7 @@ Symbol | Codepoint | English
 -+ | ASCII | Black has a desicive advantage
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
-? | ? | With compensation for the material
+FIXME | FIXME | With compensation for the material
 &gt; | ASCII | Strong
 &lt; | ASCII | Weak
 &#2265; | U+2265 | Better is
@@ -44,6 +44,8 @@ Symbol | Codepoint | English
 &#x2B82; | U+2B82 | Counterplay
 &#x25E8; | U+25E8 | Kingside
 &#x25E7; | U+25E7 | Queenside
+FIXME | FIXME | Space
+FIXME | FIXME | Center
 
 ## Sources
 
