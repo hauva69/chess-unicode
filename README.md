@@ -42,6 +42,7 @@ Symbol | Codepoint | English
 &#x2B61; | U+2B61 | Iniative
 &#x2B85; | U+2B85 | Lead in development
 &#x2B82; | U+2B82 | Counterplay
+&#x25E8; | U+25E8 | Kingside
 
 ## Sources
 
