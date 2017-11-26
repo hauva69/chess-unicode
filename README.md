@@ -33,6 +33,7 @@ Symbol | Codepoint | English
 ! | ASCII | Good move
 !! | ASCII | Excellent move
 ? | ASCII | Bad move
+?? | ASCII | Blunder
 
 ## Sources
 
