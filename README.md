@@ -63,6 +63,7 @@ T | ASCII | Time
 – | U-8211 | See
 RR | ASCII | Editorial comment
 YB | ASCII | Yearbook
+ch | ASCII | National championship
 
 ## Sources
 
