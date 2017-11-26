@@ -53,6 +53,7 @@ FIXME | FIXME | Center
 X | ASCII | Mate
 N | ASCII | Novelty
 EN | ASCII | Endgame
+Z | ASCII | Zugzwang
 
 ## Sources
 
