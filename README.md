@@ -33,8 +33,8 @@ Symbol | Codepoint | English
 FIXME | FIXME | With compensation for the material
 &gt; | ASCII | Strong
 &lt; | ASCII | Weak
-&#2265; | U+2265 | Better is
-&#2264; | U+2265 | Weaker is
+&#x2265; | U+2265 | Better is
+&#x2264; | U+2264 | Weaker is
 ! | ASCII | Good move
 !! | ASCII | Excellent move
 ? | ASCII | Bad move
