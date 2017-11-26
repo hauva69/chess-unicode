@@ -40,6 +40,7 @@ Symbol | Codepoint | English
 &#x25B3; | U+25B3 | With the idea
 &#x2B62; | U+2B62 | Attack
 &#x2B61; | U+2B61 | Iniative
+&#x2B85; | U+2B85 | Lead in development
 
 ## Sources
 
