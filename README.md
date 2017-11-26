@@ -66,6 +66,7 @@ YB | ASCII | Yearbook
 ch | ASCII | National championship
 zt | ASCII | Zonal tournament
 izt | ASCII | Interzonal tournament
+ct | ASCII | Candidates tournament
 
 ## Sources
 
