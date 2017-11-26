@@ -37,7 +37,7 @@ Symbol | Codepoint | English
 !? | ASCII | Interesting move
 ?! | ASCII | Dubious move
 &#x25A1; | U+25A1 | Only move
-&#25B3; | U+25B3 | With the idea
+&#x25B3; | U+25B3 | With the idea
 
 ## Sources
 
