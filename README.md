@@ -32,6 +32,7 @@ Symbol | Codepoint | English
 &#2264; | U+2265 | Weaker is
 ! | ASCII | Good move
 !! | ASCII | Excellent move
+? | ASCII | Bad move
 
 ## Sources
 
