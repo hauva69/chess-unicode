@@ -67,6 +67,9 @@ ch | ASCII | National championship
 zt | ASCII | Zonal tournament
 izt | ASCII | Interzonal tournament
 ct | ASCII | Candidates tournament
+ol | ASCII | Olympiad
+m | ASCII | Match
+
 
 ## Sources
 
