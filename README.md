@@ -65,6 +65,7 @@ RR | ASCII | Editorial comment
 YB | ASCII | Yearbook
 ch | ASCII | National championship
 zt | ASCII | Zonal tournament
+izt | ASCII | Interzonal tournament
 
 ## Sources
 
