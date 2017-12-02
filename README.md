@@ -26,8 +26,8 @@ Symbol | Codepoint | English
 &#x2a71; | U+2A71 | Black stands slightly better
 &#xb1; | U+00B1 | White stands better
 &#x2213; | U+2213 | Black stands better
-&#x2214;;&#2216; | U+2214 U-2216 | White has a desicive advantage
-&#x2216;&#2214; |  U-2216 U-2214 | Black has a desicive advantage
++&#x2212; | U+002B | White has a desicive advantage
+&#x2212;+ |  U-2216 U+002B | Black has a desicive advantage
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
 FIXME | FIXME | With compensation for the material
