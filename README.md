@@ -31,7 +31,7 @@ Symbol | Codepoint | English
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
 FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed.
-&gt; | ASCII | Strong
+&#xFF1E; | U+FF1E | Strong
 &lt; | ASCII | Weak
 &#x2265; | U+2265 | Better is
 &#x2264; | U+2264 | Weaker is
