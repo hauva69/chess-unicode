@@ -30,8 +30,7 @@ Symbol | Codepoint | English
 &#x2212;+ |  U-2216 U+002B | Black has a desicive advantage
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
-[comment]: <> (This might be useful https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol)
-FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed.
+FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed. This might be useful: https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol
 &#xFF1E; | U+FF1E | Strong
 &#xFF1C; | U+FF1C | Weak
 &#x2265; | U+2265 | Better is
