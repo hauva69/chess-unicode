@@ -8,6 +8,9 @@ wrong, the squares should be white instead of black.
 
 The right solution would possibly be using SVG for all this.
 
+Please not that NAGs over $139 are non standard and introduced by [Chesspad](http://www.wmlsoftware.com/chesspad.html). However, some of them are more useful than some of 
+the overly exact standard NAGs.
+
 ## The Meaning of Annotations
 
 Please see [Chess annotation symbols](https://en.wikipedia.org/wiki/Chess_annotation_symbols).
