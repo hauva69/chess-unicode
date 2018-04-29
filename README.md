@@ -17,18 +17,18 @@ Please see [Chess annotation symbols](https://en.wikipedia.org/wiki/Chess_annota
 
 Symbol | Codepoint | English | NAG
 ------ | ---------- | ------- | ---
-&#x2654; | U+2654 | White Chess King
-&#x2655; | U+2655 | White Chess Queen
-&#x2656; | U+2656 | White Chess Rook
-&#x2657; | U+2657 | White Chess Bishop
-&#x2658; | U+2658 | White Chess Knight
-&#x2659; | U+2659 | White Chess Pawn
-&#x265A; | U+265A | Black Chess King
-&#x265B; | U+265B | Black Chess Queen
-&#x265C; | U+265C | Black Chess Rook
-&#x265D; | U+265D | Black Chess Bishop
-&#x265E; | U+265E | Black Chess Knight
-&#x265F; | U+265F | Black Chess Pawn
+&#x2654; | U+2654 | White Chess King | N/A
+&#x2655; | U+2655 | White Chess Queen | N/A
+&#x2656; | U+2656 | White Chess Rook | N/A
+&#x2657; | U+2657 | White Chess Bishop | N/A
+&#x2658; | U+2658 | White Chess Knight | N/A
+&#x2659; | U+2659 | White Chess Pawn | N/A
+&#x265A; | U+265A | Black Chess King | N/A
+&#x265B; | U+265B | Black Chess Queen | N/A
+&#x265C; | U+265C | Black Chess Rook | N/A
+&#x265D; | U+265D | Black Chess Bishop | N/A
+&#x265E; | U+265E | Black Chess Knight | N/A
+&#x265F; | U+265F | Black Chess Pawn | N/A
 &#x2a72; | U+2A72 | White stands slightly better | $14
 &#x2a71; | U+2A71 | Black stands slightly better | $15
 &#xb1; | U+00B1 | White stands better | $16
