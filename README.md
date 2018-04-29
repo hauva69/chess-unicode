@@ -49,7 +49,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 !? | ASCII | Interesting move | $5
 ?! | ASCII | Dubious move | $6
 &#x25A1; | U+25A1 | Only move | $7
-&#x25B3; | U+25B3 | With the idea
+&#x25B3; | U+25B3 | With the idea | $140
 &#x2B62; | U+2B62 | Attack | $40 for White, $41 for Black
 &#x2B61; | U+2B61 | Iniative | $36–$39
 &#x2B85; | U+2B85 | Lead in development
