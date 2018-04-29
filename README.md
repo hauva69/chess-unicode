@@ -48,7 +48,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x25A1; | U+25A1 | Only move | $7
 &#x25B3; | U+25B3 | With the idea
 &#x2B62; | U+2B62 | Attack
-&#x2B61; | U+2B61 | Iniative
+&#x2B61; | U+2B61 | Iniative | $36–$39
 &#x2B85; | U+2B85 | Lead in development
 &#x2B82; | U+2B82 | Counterplay
 &#x25E8; | U+25E8 | Kingside
