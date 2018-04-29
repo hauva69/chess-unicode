@@ -54,7 +54,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x25E8; | U+25E8 | Kingside
 &#x25E7; | U+25E7 | Queenside
 Capital S in a square | FIXME | Space | $24–$29
-Capital C in a square | FIXME | Center
+Capital C in a square | FIXME | Center | $48-$53
 &#x2B00; | U+2B00 | Diagonal
 &#x2B04; | U+2B04 | File
 &#x259E; | U+259E | Pair of bishops – FIXME: but the squares should be white
