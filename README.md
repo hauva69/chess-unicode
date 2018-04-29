@@ -8,7 +8,7 @@ wrong, the squares should be white instead of black.
 
 The right solution would possibly be using SVG for all this.
 
-Symbol | Codepoint | English
+Symbol | Codepoint | English | NAG
 ------ | ---------- | -------
 &#x2654; | U+2654 | White Chess King
 &#x2655; | U+2655 | White Chess Queen
@@ -35,7 +35,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &lt; | U+003C | Weak
 &#x2265; | U+2265 | Better is
 &#x2264; | U+2264 | Weaker is
-! | U+0021 | Good move
+! | U+0021 | Good move | $1
 !! | ASCII | Excellent move
 ? | ASCII | Bad move
 ?? | ASCII | Blunder
