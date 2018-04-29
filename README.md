@@ -28,9 +28,9 @@ Symbol | Codepoint | English | NAG
 &#x265F; | U+265F | Black Chess Pawn
 &#x2a72; | U+2A72 | White stands slightly better | $14
 &#x2a71; | U+2A71 | Black stands slightly better | $15
-&#xb1; | U+00B1 | White stands better
-&#x2213; | U+2213 | Black stands better
-+&#x2212; | U+002B U-2216 | White has a desicive advantage
+&#xb1; | U+00B1 | White stands better | $16
+&#x2213; | U+2213 | Black stands better | $17
+&#x2212; | U+002B U-2216 | White has a desicive advantage
 &#x2212;+ |  U-2216 U+002B | Black has a desicive advantage
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position | $13
