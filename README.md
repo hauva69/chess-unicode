@@ -32,7 +32,7 @@ Symbol | Codepoint | English | NAG
 &#x2213; | U+2213 | Black stands better | $17
 +&#x2212; | U+002B U-2216 | White has a desicive advantage | $18
 &#x2212;+ |  U-2216 U+002B | Black has a desicive advantage | $19
-= | U+003D | Balanced position
+= | U+003D | Balanced position | $10; $11 or $12 might be applicable
 &#x221e; | U+221E | Unclear position | $13
 FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed. This might be useful: https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol
 &gt; | U+003E | Strong
@@ -54,7 +54,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x25E8; | U+25E8 | Kingside
 &#x25E7; | U+25E7 | Queenside
 Capital S in a square | FIXME | Space | $24–$29
-FIXME | FIXME | Center
+Capital C in a square | FIXME | Center
 &#x2B00; | U+2B00 | Diagonal
 &#x2B04; | U+2B04 | File
 &#x259E; | U+259E | Pair of bishops – FIXME: but the squares should be white
