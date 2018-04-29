@@ -26,8 +26,8 @@ Symbol | Codepoint | English | NAG
 &#x265D; | U+265D | Black Chess Bishop
 &#x265E; | U+265E | Black Chess Knight
 &#x265F; | U+265F | Black Chess Pawn
-&#x2a72; | U+2A72 | White stands slightly better
-&#x2a71; | U+2A71 | Black stands slightly better
+&#x2a72; | U+2A72 | White stands slightly better | $14
+&#x2a71; | U+2A71 | Black stands slightly better | $15
 &#xb1; | U+00B1 | White stands better
 &#x2213; | U+2213 | Black stands better
 +&#x2212; | U+002B U-2216 | White has a desicive advantage
