@@ -53,7 +53,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x2B62; | U+2B62 | Attack | $40 for White, $41 for Black
 &#x2B61; | U+2B61 | Iniative | $36–$39
 &#x2B85; | U+2B85 | Lead in development | $30-$35
-&#x2B82; | U+2B82 | Counterplay
+&#x2B82; | U+2B82 | Counterplay | $130-$135
 &#x25E8; | U+25E8 | Kingside
 &#x25E7; | U+25E7 | Queenside
 Capital S in a square | FIXME | Space | $24–$29
