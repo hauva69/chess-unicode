@@ -62,7 +62,7 @@ FIXME | FIXME | Center
 X | ASCII | Mate
 N | ASCII | Novelty
 EN | ASCII | Endgame
-Z | ASCII | Zugzwang
+Z | ASCII | Zugzwang | $22 for White, $23 for Black
 T | ASCII | Time
 – | U-8211 | See
 RR | ASCII | Editorial comment
