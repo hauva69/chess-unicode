@@ -44,7 +44,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 ? | ASCII | Bad move | $2
 ?? | ASCII | Blunder | $4
 !? | ASCII | Interesting move | $5
-?! | ASCII | Dubious move
+?! | ASCII | Dubious move | $6
 &#x25A1; | U+25A1 | Only move
 &#x25B3; | U+25B3 | With the idea
 &#x2B62; | U+2B62 | Attack
