@@ -37,7 +37,7 @@ Symbol | Codepoint | English | NAG
 &#x2212;+ |  U-2216 U+002B | Black has a desicive advantage | $19
 = | U+003D | Balanced position | $10; $11 or $12 might be applicable
 &#x221e; | U+221E | Unclear position | $13
-FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed. This might be useful: https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol
+FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed. This might be useful: https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol | $44 for White, $45 for Black
 &gt; | U+003E | Strong
 &lt; | U+003C | Weak
 &#x2265; | U+2265 | Better is
