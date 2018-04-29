@@ -8,6 +8,10 @@ wrong, the squares should be white instead of black.
 
 The right solution would possibly be using SVG for all this.
 
+## The Meaning of Annotations
+
+Please see [Chess annotation symbols](https://en.wikipedia.org/wiki/Chess_annotation_symbols).
+
 Symbol | Codepoint | English | NAG
 ------ | ---------- | ------- | ---
 &#x2654; | U+2654 | White Chess King
@@ -39,7 +43,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 !! | ASCII | Excellent move | $3
 ? | ASCII | Bad move | $2
 ?? | ASCII | Blunder | $4
-!? | ASCII | Interesting move
+!? | ASCII | Interesting move | $5
 ?! | ASCII | Dubious move
 &#x25A1; | U+25A1 | Only move
 &#x25B3; | U+25B3 | With the idea
