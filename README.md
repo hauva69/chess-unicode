@@ -54,8 +54,8 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x2B61; | U+2B61 | Iniative | $36–$39
 &#x2B85; | U+2B85 | Lead in development | $30-$35
 &#x2B82; | U+2B82 | Counterplay | $130-$135
-&#x25E8; | U+25E8 | Kingside
-&#x25E7; | U+25E7 | Queenside
+&#x25E8; | U+25E8 | Kingside | $242
+&#x25E7; | U+25E7 | Queenside | $243
 Capital S in a square | FIXME | Space | $24–$29
 Capital C in a square | FIXME | Center | $48-$53
 &#x2B00; | U+2B00 | Diagonal
