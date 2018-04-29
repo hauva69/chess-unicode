@@ -31,8 +31,8 @@ Symbol | Codepoint | English
 = | U+003D | Balanced position
 &#x221e; | U+221E | Unclear position
 FIXME | FIXME | With compensation for the material – a symbol with &#x221e; over = is needed. This might be useful: https://stackoverflow.com/questions/47437061/how-to-combine-two-unicode-symbols-to-create-a-new-symbol
-&#xFF1E; | U+FF1E | Strong
-&#xFF1C; | U+FF1C | Weak
+&gt; | U+003E | Strong
+&lt; | U+003C | Weak
 &#x2265; | U+2265 | Better is
 &#x2264; | U+2264 | Weaker is
 ! | U+0021 | Good move
