@@ -64,7 +64,7 @@ Capital C in a square | FIXME | Center | $48-$53
 &#x25CB;&#x25CB; | U+25CB U+25CB | Pawn structure | $249-$253
 X | ASCII | Mate | N/A
 N | ASCII | Novelty | $146
-EN | ASCII | Endgame
+EN | ASCII | Endgame | $245
 Z | ASCII | Zugzwang | $22 for White, $23 for Black
 T | ASCII | Time
 – | U-8211 | See
