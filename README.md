@@ -53,7 +53,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x2B82; | U+2B82 | Counterplay
 &#x25E8; | U+25E8 | Kingside
 &#x25E7; | U+25E7 | Queenside
-FIXME | FIXME | Space
+Capital S in a square | FIXME | Space | $24–$29
 FIXME | FIXME | Center
 &#x2B00; | U+2B00 | Diagonal
 &#x2B04; | U+2B04 | File
