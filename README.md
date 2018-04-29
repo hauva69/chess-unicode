@@ -37,7 +37,7 @@ FIXME | FIXME | With compensation for the material – a symbol with &#x221e; ov
 &#x2264; | U+2264 | Weaker is
 ! | U+0021 | Good move | $1
 !! | ASCII | Excellent move
-? | ASCII | Bad move
+? | ASCII | Bad move | $2
 ?? | ASCII | Blunder
 !? | ASCII | Interesting move
 ?! | ASCII | Dubious move
